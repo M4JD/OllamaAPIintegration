@@ -1,0 +1,6 @@
+@OllamaApiIntegration_HostAddress = http://localhost:5214
+
+GET {{OllamaApiIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
